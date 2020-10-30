@@ -5,11 +5,9 @@ Home: https://github.com/simlist/pyluach
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyluach-feedstock/blob/master/LICENSE.txt)
 
 Summary: Pyluach is a Python package for manipulating Hebrew dates, Gregorian-Hebrew calendar conversions, and other Jewish calendar related calculations.
-
-
 
 Current build status
 ====================
