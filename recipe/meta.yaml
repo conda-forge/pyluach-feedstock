@@ -1,5 +1,5 @@
 {% set name = "pyluach" %}
-{% set version = "1.2.1" %}
+{% set version = "1.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 7cdcee5aeaac82a6405ce3992fd872edaab03e13b49e34b3e415491cc5acb157
+  sha256: 9cf95eaa600cc904d1adb015036ab135e0d732ca2a30253db92b676ee3415dea
 
 build:
   noarch: python
