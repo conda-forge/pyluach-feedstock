@@ -20,6 +20,7 @@ requirements:
     - python >=3.4
   run:
     - python >=3.4
+    - flit-core
 
 test:
   imports:
